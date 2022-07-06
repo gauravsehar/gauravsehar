@@ -1,7 +1,7 @@
 <!--**gauravsehar/gauravsehar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- Your title -->
-# Hi, I'm Gaurav Sehar, a Software Developer.
+# Gaurav Sehar.
 
 <!-- Badges
 You can use the website to generate badges: https://shields.io/
@@ -31,8 +31,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width
 <img width="55%" align="right" alt="Github" src="https://github.com/XXXX/blob/master/circle-cropped.png" />-->
 
-- 💻 I’m currently working at Design Facility
-- 🌱 I’m currently diving in MERN Stack
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: @GauravSehar at LinkedIn and Telegram
 
