@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width
 <img width="55%" align="right" alt="Github" src="https://github.com/XXXX/blob/master/circle-cropped.png" />-->
 
-- ⚡️ CTO at an Edutech Startup
+- ⚡️ Working with GoI
 - ⚡️ Offers: CDAC, Infosys, Samsung, HCL, IBM
 - ⚡️ IITB Campus Ambassador at GTBIT 2018-19
 - ⚡️ Tech Organiser At IIPC GTBIT Delhi
